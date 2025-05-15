@@ -1,4 +1,4 @@
 public class Noh {
-    Cliente info;
+    Cliente dado;
     Noh proximo;
 }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estrutura_de_dados.iml" filepath="$PROJECT_DIR$/.idea/Estrutura_de_dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bonus/bonus.iml" filepath="$PROJECT_DIR$/bonus/bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_dados/estrutura_dados.iml" filepath="$PROJECT_DIR$/estrutura_dados/estrutura_dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lists_ligada/lists_ligada.iml" filepath="$PROJECT_DIR$/lists_ligada/lists_ligada.iml" />
+    </modules>
+  </component>
+</project>
